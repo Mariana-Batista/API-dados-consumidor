@@ -1,4 +1,4 @@
-# API de Previsão de Risco de Crédito
+# API para previsão de risco de crédito
 
 Esta API tem a finaliade de gera dados falsos para análise e previsão de risco de crédito ao consumidor, utilizando informações demográficas, financeiras e comportamentais.
 
